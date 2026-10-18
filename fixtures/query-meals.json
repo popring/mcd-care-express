@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "categoryName": "超值套餐",
+      "meals": [
+        { "code": "M001", "name": "巨无霸三件套", "price": 3350 },
+        { "code": "M002", "name": "板烧鸡腿堡三件套", "price": 3450 },
+        { "code": "M003", "name": "麦辣鸡腿堡三件套", "price": 3350 }
+      ]
+    },
+    {
+      "categoryName": "小食",
+      "meals": [
+        { "code": "S001", "name": "中薯条", "price": 1200 },
+        { "code": "S002", "name": "麦乐鸡（5 块）", "price": 1300 },
+        { "code": "S003", "name": "比心薯饼", "price": 800 },
+        { "code": "S004", "name": "麦辣鸡翅（2 块）", "price": 1500 }
+      ]
+    },
+    {
+      "categoryName": "甜品",
+      "meals": [
+        { "code": "D001", "name": "麦旋风", "price": 1550 },
+        { "code": "D002", "name": "圆筒冰淇淋", "price": 600 },
+        { "code": "D003", "name": "苹果派", "price": 900 }
+      ]
+    },
+    {
+      "categoryName": "饮料",
+      "meals": [
+        { "code": "B001", "name": "中可乐", "price": 1000 },
+        { "code": "B002", "name": "冰美式", "price": 1200 },
+        { "code": "B003", "name": "拿铁", "price": 1500 }
+      ]
+    },
+    {
+      "categoryName": "早餐",
+      "meals": [
+        { "code": "K001", "name": "猪柳蛋麦满分", "price": 1500 },
+        { "code": "K002", "name": "薯饼", "price": 800 },
+        { "code": "K003", "name": "豆浆", "price": 700 }
+      ]
+    }
+  ]
+}

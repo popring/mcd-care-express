@@ -1,0 +1,7 @@
+{
+  "orderNo": "M20261018000123",
+  "storeName": "麦当劳南京鼓楼中山北路餐厅",
+  "payAmount": 4950,
+  "payUrl": "https://mcd.example.invalid/pay/M20261018000123",
+  "status": "WAIT_PAY"
+}

@@ -1,0 +1,16 @@
+{
+  "stores": [
+    {
+      "storeId": "1990622",
+      "storeName": "麦当劳南京鼓楼中山北路餐厅",
+      "address": "南京市鼓楼区中山北路 188 号",
+      "distance": 1.2
+    },
+    {
+      "storeId": "1990633",
+      "storeName": "麦当劳南京鼓楼山西路餐厅",
+      "address": "南京市鼓楼区山西路 12 号",
+      "distance": 2.8
+    }
+  ]
+}
